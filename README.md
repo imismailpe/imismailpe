@@ -1,4 +1,5 @@
 ### Hi there 👋
+🔭 I’m a ReactJS dev looking for berrer opportunities.
 
 <!--
 **imismailpe/imismailpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
