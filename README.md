@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I code in Javascript, be it React, Next, Exress, Node. 
+🔭 I code in Javascript, be it React, Next, Express, Node. 
 - 🔭 I’m currently working on Nextjs
 - 🌱 I’m currently learning Nodejs
 - 👯 I’m looking to collaborate on remote opportunities.
