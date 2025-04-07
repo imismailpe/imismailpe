@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Nodejs
 - 👯 I’m looking to collaborate on remote opportunities.
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=imismailpe)](https://github.com/imismailpe/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=imismailpe&theme=transparent)](https://github.com/imismailpe/github-readme-stats)
 
 <!--
 **imismailpe/imismailpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
