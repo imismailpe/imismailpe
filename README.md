@@ -1,8 +1,8 @@
 ### Hi there 👋
-🔭 I code in Javascript, be it React, Next, Express, Node. 
+🔭 I code in Javascript/Typescript be it React, Next, Express, Node. 
 - 🔭 I’m currently working on Nextjs
 - 🌱 I’m currently learning Tanstack Query
-- 👯 I’m looking to collaborate on remote opportunities.
+- 👯 I’m looking to collaborate on better opportunities.
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=imismailpe&theme=transparent)](https://github.com/imismailpe/github-readme-stats)
 
