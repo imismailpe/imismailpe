@@ -1,5 +1,6 @@
 ### Hi there 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+Ismail+P+E;I+solve+business+problems+with+tech)](https://git.io/typing-svg)
+
 🔭 I code in Javascript/Typescript be it React, Next, Express, Node. 
 - 🔭 I’m currently working on Nextjs
 - 🌱 I’m currently learning Tanstack Query
